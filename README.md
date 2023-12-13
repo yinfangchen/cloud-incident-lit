@@ -13,14 +13,15 @@ Cloud incident management related work.
 - An Empirical Investigation of Incident Triage for Online Service Systems. Junjie Chen, et al. ICSE-SEIP'19 [paper](https://netman.aiops.org/~peidan/ANM2021/12.IncidentManagement/LectureCoverage/2019ICSE_An%20Empirical%20Investigation%20of%20Incident%20Triage%20for%20Online%20Service%20Systems.pdf)
 
 ## Root Causing
-- Automated known problem diagnosis with event traces. Chun Yuan et al. EuroSys'06 [paper](https://dl.acm.org/doi/10.1145/1217935.1217972)
+- Automatic Root Cause Analysis via Large Language Models for Cloud Incidents. Yinfang Chen et al. EuroSys'24
 - Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models. Toufique Ahmed, et al. ICSE'23 [paper](https://arxiv.org/pdf/2301.03797.pdf)
 - AutoTSG: Learning and Synthesis for Incident Troubleshooting. Manish Shetty, et al. arXiv'22 [paper](https://arxiv.org/pdf/2205.13457.pdf)
 - Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps. Amrita Saha, et al. arXiv'22 [paper](https://arxiv.org/pdf/2204.11598.pdf)
+- Automated known problem diagnosis with event traces. Chun Yuan et al. EuroSys'06 [paper](https://dl.acm.org/doi/10.1145/1217935.1217972)
 
 
 ## Mitigation
-- How to Mitigate the Incident? An Effective Troubleshooting Guide Recommendation Technique for Online Service Systems. Jiajun Jiang, et al. [paper](https://xgdsmileboy.github.io/files/paper/deeprmd-fse20.pdf)
+- How to Mitigate the Incident? An Effective Troubleshooting Guide Recommendation Technique for Online Service Systems. Jiajun Jiang, et al. FSE'20 [paper](https://xgdsmileboy.github.io/files/paper/deeprmd-fse20.pdf)
 
 <!-- ## Learning-based
 ### Literature
