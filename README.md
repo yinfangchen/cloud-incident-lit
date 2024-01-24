@@ -1,4 +1,4 @@
-# Cloud & Microservice Incident/Failure Literature
+# Cloud Failure Literature
 Cloud (including microservices) incidents/failures related work.
 
 
@@ -7,6 +7,7 @@ Cloud (including microservices) incidents/failures related work.
 - What Can We Learn from Four Years of Data Center Hardware Failures? Guosai Wang et al. DSN'17 [paper](https://people.iiis.tsinghua.edu.cn/~weixu/Krvdro9c/dsn17-wang.pdf)
 
 ## Monitoring
+- Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis. Xiaofeng Guo, et al. ESEC/FSE'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3368089.3417066) 
 - CloudSeer: Workflow Monitoring of Cloud Infrastructures via Interleaved Logs. Xiao Yu, et al. ASPLOS'16 [paper](https://dl.acm.org/doi/10.1145/2872362.2872407)
 - Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems. Jonathan Mace, et al. SOSP'15 [paper](https://dl.acm.org/doi/10.1145/2815400.2815415)
 - The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services. Michael Chow, et al. OSDI'14 [paper](https://dl.acm.org/doi/10.1145/2872362.2872407)
