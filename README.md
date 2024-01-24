@@ -20,6 +20,7 @@ Cloud (including microservices) incidents/failures related work.
 
 
 ## Detection and Triage
+- Deeptralog: Trace-log combined microservice anomaly detection through graph-based deep learning. Chenxi Zhang, et al. ICSE'22 [paper](https://cspengxin.github.io/publications/icse22-DeepTraLog.pdf) 
 - Fighting the Fog of War: Automated Incident Detection for Cloud Systems. Liqun Li, et al. ATC'21 [paper](https://www.usenix.org/system/files/atc21-li-liqun.pdf)
 - Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks. Ping Liu, et al. ISSRE'20 [paper](https://netman.aiops.org/wp-content/uploads/2020/09/%E5%88%98%E5%B9%B3issre.pdf)
 - Continuous Incident Triage for Large-Scale Online Service Systems. Junjie Chen, et al. ASE'19 [paper](http://hongyujohn.github.io/ASE19b.pdf)
