@@ -8,6 +8,7 @@ Cloud incident management related work.
 
 ## Monitoring
 - CloudSeer: Workflow Monitoring of Cloud Infrastructures via Interleaved Logs. Xiao Yu, et al. ASPLOS'16 [paper](https://dl.acm.org/doi/10.1145/2872362.2872407)
+- Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems. Jonathan Mace, et al. SOSP'15 [paper](https://dl.acm.org/doi/10.1145/2815400.2815415)
 - The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services. Michael Chow, et al. OSDI'14 [paper](https://dl.acm.org/doi/10.1145/2872362.2872407)
 - Dapper, a Large-Scale Distributed Systems Tracing Infrastructure. Benjamin H. Sigelman, et al. [paper](https://static.googleusercontent.com/media/research.google.com/en//archive/papers/dapper-2010-1.pdf)
 
