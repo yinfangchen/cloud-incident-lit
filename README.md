@@ -1,5 +1,5 @@
 # Cloud Incident
-Cloud incident management related work.
+Cloud incidents/failures related work.
 
 
 ## Study
