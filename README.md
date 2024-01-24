@@ -34,6 +34,7 @@ Cloud (including microservices) incidents/failures related work.
 - AutoTSG: Learning and Synthesis for Incident Troubleshooting. Manish Shetty, et al. arXiv'22 [paper](https://arxiv.org/pdf/2205.13457.pdf)
 - Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps. Amrita Saha, et al. arXiv'22 [paper](https://arxiv.org/pdf/2204.11598.pdf)
 - Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices. Yu Gan, et al. ASPLOS'21 [paper](https://gy1005.github.io/publication/2021.asplos.sage/2021.asplos.sage.pdf)
+- Groot: An event-graph-based approach for root cause analysis in industrial settings. Hanzhang Wang, et al. ASE'21 [paper](https://dl.acm.org/doi/abs/10.1109/ASE51524.2021.9678708)
 - Practical Root Cause Localization for Microservice Systems via Trace Analysis. Zeyan Li, et al. IWQOS'21 [paper](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf)
 - CloudRCA: A Root Cause Analysis Framework for Cloud Computing Platforms. Yingying Zhang, et al. CIKM'21 [paper](https://arxiv.org/pdf/2111.03753.pdf)
 - MicroHECL: high-efficient root cause localization in large-scale microservice systems. Dewei Liu, et al. ICSE-SEIP'21 [paper](https://dl.acm.org/doi/10.1109/ICSE-SEIP52600.2021.00043)
