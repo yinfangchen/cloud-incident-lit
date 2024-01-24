@@ -8,7 +8,8 @@ Cloud (including microservices) incidents/failures related work.
 
 ## Benchmarks
 - An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud & Edge Systems. Yu Gan, et al. ASPLOS'19 [paper](https://gy1005.github.io/publication/2019.asplos.deathstarbench/2019.asplos.deathstarbench.pdf)
-- Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study. Xiang Zhou, et al. IEEE Transactions on Software Engineering'18 [paper](https://ieeexplore.ieee.org/document/8580420)
+- Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study. Xiang Zhou, et al. IEEE Transactions on SE'18 [paper](https://ieeexplore.ieee.org/document/8580420)
+- µSuite: A Benchmark Suite for Microservices. Akshitha Sriraman, et al. IISWC'18 [paper](https://akshithasriraman.eecs.umich.edu/pubs/IISWC2018-%CE%BCSuite-preprint.pdf)
   
 ## Monitoring & Tracing
 - Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis. Xiaofeng Guo, et al. ESEC/FSE'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3368089.3417066) 
