@@ -9,16 +9,18 @@ Cloud (including microservices) incidents/failures related work.
 ## Benchmarks
 - An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud & Edge Systems. Yu Gan, et al. ASPLOS'19 [paper](https://gy1005.github.io/publication/2019.asplos.deathstarbench/2019.asplos.deathstarbench.pdf)
   
-## Monitoring
+## Monitoring & Tracing
 - Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis. Xiaofeng Guo, et al. ESEC/FSE'20 [paper](https://dl.acm.org/doi/pdf/10.1145/3368089.3417066) 
 - CloudSeer: Workflow Monitoring of Cloud Infrastructures via Interleaved Logs. Xiao Yu, et al. ASPLOS'16 [paper](https://dl.acm.org/doi/10.1145/2872362.2872407)
 - Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems. Jonathan Mace, et al. SOSP'15 [paper](https://dl.acm.org/doi/10.1145/2815400.2815415)
 - The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services. Michael Chow, et al. OSDI'14 [paper](https://dl.acm.org/doi/10.1145/2872362.2872407)
-- Dapper, a Large-Scale Distributed Systems Tracing Infrastructure. Benjamin H. Sigelman, et al. [paper](https://static.googleusercontent.com/media/research.google.com/en//archive/papers/dapper-2010-1.pdf)
+- Dapper, a Large-Scale Distributed Systems Tracing Infrastructure. Benjamin H. Sigelman, et al. Technical report'10 [paper](https://static.googleusercontent.com/media/research.google.com/en//archive/papers/dapper-2010-1.pdf)
+- X-Trace: A Pervasive Network Tracing Framework. Rodrigo Fonseca, et al. NSDI'07 [paper](https://www.usenix.org/legacy/event/nsdi07/tech/full_papers/fonseca/fonseca.pdf)
 
 
 ## Detection and Triage
 - Fighting the Fog of War: Automated Incident Detection for Cloud Systems. Liqun Li, et al. ATC'21 [paper](https://www.usenix.org/system/files/atc21-li-liqun.pdf)
+- Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks. Ping Liu, et al. ISSRE'20 [paper](https://netman.aiops.org/wp-content/uploads/2020/09/%E5%88%98%E5%B9%B3issre.pdf)
 - Continuous Incident Triage for Large-Scale Online Service Systems. Junjie Chen, et al. ASE'19 [paper](http://hongyujohn.github.io/ASE19b.pdf)
 - An Empirical Investigation of Incident Triage for Online Service Systems. Junjie Chen, et al. ICSE-SEIP'19 [paper](https://netman.aiops.org/~peidan/ANM2021/12.IncidentManagement/LectureCoverage/2019ICSE_An%20Empirical%20Investigation%20of%20Incident%20Triage%20for%20Online%20Service%20Systems.pdf)
 
