@@ -4,6 +4,7 @@ Cloud (including microservices) incidents/failures related work.
 
 ## Study
 - How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service. Supriyo Ghosh, et al. SoCC'22 [paper](https://arxiv.org/pdf/2109.01111.pdf)
+- Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis. Shutian Luo, et al. SoCC'21 (paper)[https://dl.acm.org/doi/10.1145/3472883.3487003]
 - What Can We Learn from Four Years of Data Center Hardware Failures? Guosai Wang et al. DSN'17 [paper](https://people.iiis.tsinghua.edu.cn/~weixu/Krvdro9c/dsn17-wang.pdf)
 
 ## Benchmarks
