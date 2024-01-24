@@ -18,6 +18,7 @@ Cloud incident management related work.
 - Continuous Incident Triage for Large-Scale Online Service Systems. Junjie Chen, et al. ASE'19 [paper](http://hongyujohn.github.io/ASE19b.pdf)
 - An Empirical Investigation of Incident Triage for Online Service Systems. Junjie Chen, et al. ICSE-SEIP'19 [paper](https://netman.aiops.org/~peidan/ANM2021/12.IncidentManagement/LectureCoverage/2019ICSE_An%20Empirical%20Investigation%20of%20Incident%20Triage%20for%20Online%20Service%20Systems.pdf)
 
+
 ## Root Causing
 - Automatic Root Cause Analysis via Large Language Models for Cloud Incidents. Yinfang Chen, et al. EuroSys'24
 - Robust Failure Diagnosis of Microservice System through Multimodal Data. Shenglin Zhang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2302.10512.pdf)
@@ -25,6 +26,7 @@ Cloud incident management related work.
 - AutoTSG: Learning and Synthesis for Incident Troubleshooting. Manish Shetty, et al. arXiv'22 [paper](https://arxiv.org/pdf/2205.13457.pdf)
 - Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps. Amrita Saha, et al. arXiv'22 [paper](https://arxiv.org/pdf/2204.11598.pdf)
 - CloudRCA: A Root Cause Analysis Framework for Cloud Computing Platforms. Yingying Zhang, et al. CIKM'21 [paper](https://arxiv.org/pdf/2111.03753.pdf)
+- MicroHECL: high-efficient root cause localization in large-scale microservice systems. Dewei Liu, et al. ICSE-SEIP'21 [paper](https://dl.acm.org/doi/10.1109/ICSE-SEIP52600.2021.00043)  
 - Automated known problem diagnosis with event traces. Chun Yuan, et al. EuroSys'06 [paper](https://dl.acm.org/doi/10.1145/1217935.1217972)
 
 
