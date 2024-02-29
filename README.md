@@ -42,6 +42,7 @@ Cloud (including microservices) incidents/failures related work.
 - Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices. Yu Gan, et al. ASPLOS'19 [paper](https://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.seer.pdf)
 - Latent error prediction and fault localization for microservice applications by learning from system trace logs. Xiang Zhou, et al. ESEC/FSE'19 [paper](https://dl.acm.org/doi/10.1145/3338906.3338961)
 - Automated known problem diagnosis with event traces. Chun Yuan, et al. EuroSys'06 [paper](https://dl.acm.org/doi/10.1145/1217935.1217972)
+- Delta Debugging Microservice Systems. Xiang Zhou, et al. ASE'18 [paper](https://cspengxin.github.io/publications/ase18-debugmicroservice.pdf)
 
 
 ## Mitigation
