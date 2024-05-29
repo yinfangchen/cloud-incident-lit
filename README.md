@@ -30,7 +30,7 @@ Cloud (including microservices) incidents/failures related work.
 
 
 ## Root Causing
-- Automatic Root Cause Analysis via Large Language Models for Cloud Incidents. Yinfang Chen, et al. EuroSys'24
+- Automatic Root Cause Analysis via Large Language Models for Cloud Incidents. Yinfang Chen, et al. EuroSys'24 [paper](https://yinfangchen.github.io/assets/pdf/rcacopilot_paper.pdf)
 - Robust Failure Diagnosis of Microservice System through Multimodal Data. Shenglin Zhang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2302.10512.pdf)
 - Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models. Toufique Ahmed, et al. ICSE'23 [paper](https://arxiv.org/pdf/2301.03797.pdf)
 - Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps. Amrita Saha, et al. arXiv'22 [paper](https://arxiv.org/pdf/2204.11598.pdf)
@@ -39,6 +39,7 @@ Cloud (including microservices) incidents/failures related work.
 - Practical Root Cause Localization for Microservice Systems via Trace Analysis. Zeyan Li, et al. IWQOS'21 [paper](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf)
 - CloudRCA: A Root Cause Analysis Framework for Cloud Computing Platforms. Yingying Zhang, et al. CIKM'21 [paper](https://arxiv.org/pdf/2111.03753.pdf)
 - MicroHECL: high-efficient root cause localization in large-scale microservice systems. Dewei Liu, et al. ICSE-SEIP'21 [paper](https://dl.acm.org/doi/10.1109/ICSE-SEIP52600.2021.00043)
+- Predicting Node Failures in an Ultra-large-scale Cloud Computing Platform: an AIOps Solution. Yangguang Li, et al. ACM Transactions on Software Engineering and Methodology'20 [paper](https://www.hengli.org/pdf/Li2020NodeFailurePrediction.pdf)
 - Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices. Yu Gan, et al. ASPLOS'19 [paper](https://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.seer.pdf)
 - Latent error prediction and fault localization for microservice applications by learning from system trace logs. Xiang Zhou, et al. ESEC/FSE'19 [paper](https://dl.acm.org/doi/10.1145/3338906.3338961)
 - Automated known problem diagnosis with event traces. Chun Yuan, et al. EuroSys'06 [paper](https://dl.acm.org/doi/10.1145/1217935.1217972)
