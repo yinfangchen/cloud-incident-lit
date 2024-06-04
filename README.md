@@ -22,6 +22,7 @@ Cloud (including microservices) incidents/failures related work.
 
 
 ## Detection & Triage
+- Twin Graph-based Anomaly Detection via Attentive Multi-Modal Learning for Microservice System
 - Deeptralog: Trace-log combined microservice anomaly detection through graph-based deep learning. Chenxi Zhang, et al. ICSE'22 [paper](https://cspengxin.github.io/publications/icse22-DeepTraLog.pdf) 
 - Fighting the Fog of War: Automated Incident Detection for Cloud Systems. Liqun Li, et al. ATC'21 [paper](https://www.usenix.org/system/files/atc21-li-liqun.pdf)
 - FIRM: An Intelligent Fine-Grained Resource Management Frameworkfor SLO-Oriented Microservices. Haoran Qiu, et al. OSDI'20 [paper](https://dl.acm.org/doi/pdf/10.5555/3488766.3488812)
@@ -31,8 +32,9 @@ Cloud (including microservices) incidents/failures related work.
 
 
 ## Root Causing
-- Automatic Root Cause Analysis via Large Language Models for Cloud Incidents. Yinfang Chen, et al. EuroSys'24 [paper](https://yinfangchen.github.io/assets/pdf/rcacopilot_paper.pdf)
-- Robust Failure Diagnosis of Microservice System through Multimodal Data. Shenglin Zhang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2302.10512.pdf)
+- (RCACopilot) Automatic Root Cause Analysis via Large Language Models for Cloud Incidents. Yinfang Chen, et al. EuroSys'24 [paper](https://yinfangchen.github.io/assets/pdf/rcacopilot_paper.pdf)
+- Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data. Cheryl Lee, et al. ICSE'23 [paper](https://arxiv.org/pdf/2302.05092)
+- (DiagFusion) Robust Failure Diagnosis of Microservice System through Multimodal Data. Shenglin Zhang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2302.10512.pdf)
 - Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models. Toufique Ahmed, et al. ICSE'23 [paper](https://arxiv.org/pdf/2301.03797.pdf)
 - Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps. Amrita Saha, et al. arXiv'22 [paper](https://arxiv.org/pdf/2204.11598.pdf)
 - Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices. Yu Gan, et al. ASPLOS'21 [paper](https://gy1005.github.io/publication/2021.asplos.sage/2021.asplos.sage.pdf)
@@ -51,6 +53,8 @@ Cloud (including microservices) incidents/failures related work.
 - How to Mitigate the Incident? An Effective Troubleshooting Guide Recommendation Technique for Online Service Systems. Jiajun Jiang, et al. FSE'20 [paper](https://xgdsmileboy.github.io/files/paper/deeprmd-fse20.pdf)
 - AutoTSG: Learning and Synthesis for Incident Troubleshooting. Manish Shetty, et al. arXiv'22 [paper](https://arxiv.org/pdf/2205.13457.pdf)
 
+## Fault Injection
+- 
 
 <!-- ## Learning-based
 ### Literature
