@@ -22,7 +22,8 @@ Cloud (including microservices) incidents/failures related work.
 
 
 ## Detection & Triage
-- Twin Graph-based Anomaly Detection via Attentive Multi-Modal Learning for Microservice System
+- (AnoFusion) Robust Multimodal Failure Detection for Microservice Systems. Chenyu Zhao, el al. KDD'23 [paper](https://arxiv.org/pdf/2305.18985)
+- (MSTGAD) Twin Graph-based Anomaly Detection via Attentive Multi-Modal Learning for Microservice System. Jun Huang, et al. ASE'23 [paper](https://arxiv.org/pdf/2310.04701)
 - Deeptralog: Trace-log combined microservice anomaly detection through graph-based deep learning. Chenxi Zhang, et al. ICSE'22 [paper](https://cspengxin.github.io/publications/icse22-DeepTraLog.pdf) 
 - Fighting the Fog of War: Automated Incident Detection for Cloud Systems. Liqun Li, et al. ATC'21 [paper](https://www.usenix.org/system/files/atc21-li-liqun.pdf)
 - FIRM: An Intelligent Fine-Grained Resource Management Frameworkfor SLO-Oriented Microservices. Haoran Qiu, et al. OSDI'20 [paper](https://dl.acm.org/doi/pdf/10.5555/3488766.3488812)
