@@ -34,6 +34,7 @@ Cloud (including microservices) incidents/failures related work.
 
 ## Root Causing
 - (RCACopilot) Automatic Root Cause Analysis via Large Language Models for Cloud Incidents. Yinfang Chen, et al. EuroSys'24 [paper](https://yinfangchen.github.io/assets/pdf/rcacopilot_paper.pdf)
+- GAMMA: Graph Neural Network-Based Multi-Bottleneck Localization for Microservices Applications. Gagan Somashekar, et al. WWW'24 [paper](https://www3.cs.stonybrook.edu/~anshul/www24_gamma.pdf)
 - Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data. Cheryl Lee, et al. ICSE'23 [paper](https://arxiv.org/pdf/2302.05092)
 - (DiagFusion) Robust Failure Diagnosis of Microservice System through Multimodal Data. Shenglin Zhang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2302.10512.pdf)
 - Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models. Toufique Ahmed, et al. ICSE'23 [paper](https://arxiv.org/pdf/2301.03797.pdf)
