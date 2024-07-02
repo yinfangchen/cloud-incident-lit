@@ -54,13 +54,39 @@ Cloud (including microservices) incidents/failures related work.
 - Delta Debugging Microservice Systems. Xiang Zhou, et al. ASE'18 [paper](https://cspengxin.github.io/publications/ase18-debugmicroservice.pdf)
 
 
+
+
 ## Mitigation
 - How to Mitigate the Incident? An Effective Troubleshooting Guide Recommendation Technique for Online Service Systems. Jiajun Jiang, et al. FSE'20 [paper](https://xgdsmileboy.github.io/files/paper/deeprmd-fse20.pdf)
 - AutoTSG: Learning and Synthesis for Incident Troubleshooting. Manish Shetty, et al. arXiv'22 [paper](https://arxiv.org/pdf/2205.13457.pdf)
 
 ## Fault Injection for Cloud
-- MicroFI: Non-Intrusive and Prioritized Request-Level Fault Injection for Microservice Applications. Hongyang Chen, et al. [paper](https://yuxiaoba.github.io/publication/microfi24/microfi24.pdf)
-
+- MicroFI: Non-Intrusive and Prioritized Request-Level Fault Injection for Microservice Applications. Hongyang Chen, et al. TDSC'24 [paper](https://yuxiaoba.github.io/publication/microfi24/microfi24.pdf)
+- Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay. S&P'24 [paper](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Chronos_sp24.pdf) [[code]](https://github.com/SecTechTool/Chronos)
+- Acto: Automatic End-to-End Testing for Operation Correctness of Cloud System Management. Jiawei Tyler Gu et al. SOSP'23 [[paper]](https://www.cs.cornell.edu/~legunsen/pubs/GuETAlActoSOSP23.pdf) [[code]](https://github.com/xlab-uiuc/acto)
+- 23_CCS_Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos [[paper]](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/CCS23.pdf)
+- 23_Failure Identification Using Model-Implemented Fault Injection with Domain Knowledge-Guided Reinforcement Learning [[paper]](https://www.mdpi.com/1424-8220/23/4/2166)
+- 23_ICSE_Coverage Guided Fault Injection for Cloud Systems [[paper]](http://www.tcse.cn/~gaoyu15/paper/2023-icse-crashfuzz.pdf) [[code]](https://github.com/tcseiscas/crashfuzz)
+- 23_NSDI_Push-Button Reliability Testing for Cloud-Backed Applications with Rainmaker [[paper]](https://www.usenix.org/system/files/nsdi23-chen-yinfang.pdf) [[code]](https://github.com/xlab-uiuc/rainmaker)
+- 23_Eurosys_Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems [[paper]](https://tianyin.github.io/pub/csi-failures.pdf) [[code]](https://github.com/xlab-uiuc/csi-ae)
+- 22_OSDI_Automatic Reliability Testing for Cluster Management Controllers [[paper]](https://www.usenix.org/conference/osdi22/presentation/sun) [[code]](https://github.com/sieve-project/sieve)
+- 22_FSE_IBIR: Bug Report driven Fault Injection [[paper]](https://arxiv.org/pdf/2012.06506.pdf) [[code]](https://github.com/serval-uni-lu/IBIR)
+- 22_ISSRE_SlowCoach Mutating Code to Simulate Performance Bugs [[paper]](https://ssg.lancs.ac.uk/wp-content/uploads/yq-slowcoach.pdf)
+- 22_SBES_Towards a Fault Taxonomy for Microservices-Based Applications [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3555228.3555245)
+- 21_PPoPP_Understanding a Program’s Resiliency Through Error Propagation [[paper]](https://dl.acm.org/doi/pdf/10.1145/3437801.3441589)
+- 20_ASE_CoFI: Consistency-Guided Fault Injection for Cloud Systems [[paper]](https://dl.acm.org/doi/pdf/10.1145/3324884.3416548) [[code]](https://hanseychen.github.io/CoFI/)
+- 20_ISSRE_How Far Have We Come in Detecting Anomalies in Distributed Systems? An Empirical Study with a Statement-level Fault Injection Method [[paper]](https://ieeexplore.ieee.org/document/9251065)
+- 20_DSN_ProFIPy: Programmable Software Fault Injection as-a-Service [[paper]](https://dl.acm.org/doi/10.1145/2841425)
+- 20_ASE_CoFI: Consistency-Guided Fault Injection for Cloud Systems [[paper]](https://web.cse.ohio-state.edu/~qin.34/pub-papers/CoFI-ASE20.pdf) [[code]](https://hanseychen.github.io/CoFI/)
+- 20_ICWS_Fitness-guided Resilience Testing of Microservice-based Applications [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9283918)
+- 19_HotCloud_Co-evolving Tracing and Fault Injection with Box of Pain [[paper]](https://www.usenix.org/system/files/hotcloud19-paper-bittman.pdf)
+- 19_ChaosRCA_Observability and Chaos Engineering on System [[paper]](https://arxiv.org/abs/1907.13039)
+- 19_Chaos_TRIPLE AGENT- Monitoring, Perturbation and  Failure-obliviousness for Automated Resilience Improvement in Java Applications [[paper]](https://arxiv.org/abs/1812.10706)
+- 18_Chaos_A Program-Aware Fault-Injection Method for Dependability Evaluation Against Soft-Error Using Genetic Algorithm [[paper]](https://www.worldscientific.com/doi/10.1142/S021812661850144X)
+- 18_TDSC_Faultprog: Testing the Accuracy of Binary-Level Software Fault Injection [[paper]](https://ieeexplore.ieee.org/document/7394118/)
+- 16_SoCC_Automating Failure Testing Research at Internet Scale [[paper]](https://dl.acm.org/doi/10.1145/2987550.2987555)
+- 16_Survey_Assessing Dependability with Software Fault Injection: A Survey [[paper]](https://dl.acm.org/doi/10.1145/2841425)
+- 15_SIGMOD_Lineage-driven Fault Injection [[paper]](https://dl.acm.org/doi/10.1145/2723372.2723711)
 
 <!-- ## Learning-based
 ### Literature
