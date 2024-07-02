@@ -6,6 +6,7 @@ Cloud (including microservices) incidents/failures related work.
 - How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service. Supriyo Ghosh, et al. SoCC'22 [paper](https://dl.acm.org/doi/pdf/10.1145/3542929.3563482)
 - Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis. Shutian Luo, et al. SoCC'21 [paper](https://dl.acm.org/doi/10.1145/3472883.3487003)
 - What Can We Learn from Four Years of Data Center Hardware Failures? Guosai Wang et al. DSN'17 [paper](https://people.iiis.tsinghua.edu.cn/~weixu/Krvdro9c/dsn17-wang.pdf)
+- A Survey on Failure Analysis and Fault Injection in AI Systems. Guangba Yu, et al. [paper](https://arxiv.org/pdf/2407.00125)
 
 ## Benchmarks
 - (DeathStarBench) An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud & Edge Systems. Yu Gan, et al. ASPLOS'19 [paper](https://gy1005.github.io/publication/2019.asplos.deathstarbench/2019.asplos.deathstarbench.pdf)
@@ -59,6 +60,7 @@ Cloud (including microservices) incidents/failures related work.
 
 ## Fault Injection for Cloud
 - MicroFI: Non-Intrusive and Prioritized Request-Level Fault Injection for Microservice Applications. Hongyang Chen, et al. [paper](https://yuxiaoba.github.io/publication/microfi24/microfi24.pdf)
+
 
 <!-- ## Learning-based
 ### Literature
