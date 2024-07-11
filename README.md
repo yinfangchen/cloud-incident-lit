@@ -34,6 +34,10 @@ Cloud (including microservices) incidents/failures related work.
 
 
 ## Root Causing
+- Exploring LLM-based Agents for Root Cause Analysis. Devjeet Roy, et al. arXiv'24 [paper](https://arxiv.org/pdf/2403.04123)
+- RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models. Zefan Wang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2310.16340)
+- PACE-LM: Prompting and Augmentation for Calibrated Confidence Estimation with GPT-4 in Cloud Incident Root Cause Analysis. Shizhuo Dylan Zhang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2309.05833)
+- Assess and summarize: Improve outage understanding with large language models. Pengxiang Jin, et al. arXiv'23 [paper](https://arxiv.org/pdf/2305.18084)
 - (RCACopilot) Automatic Root Cause Analysis via Large Language Models for Cloud Incidents. Yinfang Chen, et al. EuroSys'24 [paper](https://yinfangchen.github.io/assets/pdf/rcacopilot_paper.pdf)
 - GAMMA: Graph Neural Network-Based Multi-Bottleneck Localization for Microservices Applications. Gagan Somashekar, et al. WWW'24 [paper](https://www3.cs.stonybrook.edu/~anshul/www24_gamma.pdf)
 - Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-Modal Observability Data. Guangba Yu, et al. FSE'23 [paper](https://github.com/IntelligentDDS/Nezha/blob/main/FSE2023_Nezha.pdf)
