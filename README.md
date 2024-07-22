@@ -9,6 +9,7 @@ Cloud (including microservices) incidents/failures related work.
 - A Survey on Failure Analysis and Fault Injection in AI Systems. Guangba Yu, et al. [paper](https://arxiv.org/pdf/2407.00125)
 
 ## Benchmarks
+- Blueprint: A Toolchain for Highly-Reconfigurable Microservice Applications. Vaastav Anand, et al. SOSP'23 [paper](https://dl.acm.org/doi/pdf/10.1145/3600006.3613138)
 - (DeathStarBench) An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud & Edge Systems. Yu Gan, et al. ASPLOS'19 [paper](https://gy1005.github.io/publication/2019.asplos.deathstarbench/2019.asplos.deathstarbench.pdf)
 - (TrainTicket) Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study. Xiang Zhou, et al. IEEE Transactions on SE'18 [paper](https://ieeexplore.ieee.org/document/8580420)
 - µSuite: A Benchmark Suite for Microservices. Akshitha Sriraman, et al. IISWC'18 [paper](https://akshithasriraman.eecs.umich.edu/pubs/IISWC2018-%CE%BCSuite-preprint.pdf)
