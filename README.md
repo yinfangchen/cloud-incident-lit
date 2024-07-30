@@ -35,6 +35,13 @@ Cloud (including microservices) incidents/failures related work.
 
 
 ## Root Causing
+- Fault Diagnosis for Test Alarms in Microservices through Multi-source Data. Shenglin Zhang, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3663529.3663833)
+- ChangeRCA: Finding Root Causes from Software Changes in Large Online Systems. Guangba Yu, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3643728) 
+- BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection. Luan Pham, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660805)
+- A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization. Sungmin Kang, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660771) 
+- Chain-of-Event: Interpretable Root Cause Analysis for Microservices through Automatically Learning Weighted Event Causal Graph. Zhenhe Yao, et al. FSE'24 [paper]( 
+- Towards Better Graph Neural Network-Based Fault Localization through Enhanced Code Representation. Md Nakhla Rafi, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660793)
+- Illuminating the Gray Zone: Non-intrusive Gray Failure Localization in Server Operating Systems. Shenglin Zhang, et al. FSE'24 [paper](https://dl.acm.org/doi/pdf/10.1145/3663529.3663834)  
 - Exploring LLM-based Agents for Root Cause Analysis. Devjeet Roy, et al. arXiv'24 [paper](https://arxiv.org/pdf/2403.04123)
 - RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models. Zefan Wang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2310.16340)
 - PACE-LM: Prompting and Augmentation for Calibrated Confidence Estimation with GPT-4 in Cloud Incident Root Cause Analysis. Shizhuo Dylan Zhang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2309.05833)
