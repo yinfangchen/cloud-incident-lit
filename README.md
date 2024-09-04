@@ -39,7 +39,7 @@ Cloud (including microservices) incidents/failures related work.
 - ChangeRCA: Finding Root Causes from Software Changes in Large Online Systems. Guangba Yu, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3643728) 
 - BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection. Luan Pham, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660805)
 - A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization. Sungmin Kang, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660771) 
-- Chain-of-Event: Interpretable Root Cause Analysis for Microservices through Automatically Learning Weighted Event Causal Graph. Zhenhe Yao, et al. FSE'24 [paper]( 
+- Chain-of-Event: Interpretable Root Cause Analysis for Microservices through Automatically Learning Weighted Event Causal Graph. Zhenhe Yao, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3663529.3663827) 
 - Towards Better Graph Neural Network-Based Fault Localization through Enhanced Code Representation. Md Nakhla Rafi, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660793)
 - Illuminating the Gray Zone: Non-intrusive Gray Failure Localization in Server Operating Systems. Shenglin Zhang, et al. FSE'24 [paper](https://dl.acm.org/doi/pdf/10.1145/3663529.3663834)  
 - Exploring LLM-based Agents for Root Cause Analysis. Devjeet Roy, et al. arXiv'24 [paper](https://arxiv.org/pdf/2403.04123)
