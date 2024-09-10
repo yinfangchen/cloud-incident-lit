@@ -73,7 +73,7 @@ Cloud (including microservices) incidents/failures related work.
 - AutoTSG: Learning and Synthesis for Incident Troubleshooting. Manish Shetty, et al. arXiv'22 [paper](https://arxiv.org/pdf/2205.13457.pdf)
 
 ## Fault Injection for Cloud
-- MicroFI: Non-Intrusive and Prioritized Request-Level Fault Injection for Microservice Applications. Hongyang Chen, et al. TDSC'24 [paper](https://yuxiaoba.github.io/publication/microfi24/microfi24.pdf)
+- MicroFI: Non-Intrusive and Prioritized Request-Level Fault Injection for Microservice Applications. Hongyang Chen, et al. TDSC'24 [paper](https://ieeexplore.ieee.org/document/10428037)
 - Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay. Yuanliang Chen, et al. S&P'24 [paper](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Chronos_sp24.pdf) [code](https://github.com/SecTechTool/Chronos)
 - Acto: Automatic End-to-End Testing for Operation Correctness of Cloud System Management. Jiawei Tyler Gu, et al. SOSP'23 [paper](https://www.cs.cornell.edu/~legunsen/pubs/GuETAlActoSOSP23.pdf) [code](https://github.com/xlab-uiuc/acto)
 - Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos. Fuchen Ma, et al. CCS'23 [paper](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/CCS23.pdf)
