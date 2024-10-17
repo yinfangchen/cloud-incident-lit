@@ -7,6 +7,8 @@ Cloud (including microservices) incidents/failures related work.
 - Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis. Shutian Luo, et al. SoCC'21 [paper](https://dl.acm.org/doi/10.1145/3472883.3487003)
 - What Can We Learn from Four Years of Data Center Hardware Failures? Guosai Wang et al. DSN'17 [paper](https://people.iiis.tsinghua.edu.cn/~weixu/Krvdro9c/dsn17-wang.pdf)
 - A Survey on Failure Analysis and Fault Injection in AI Systems. Guangba Yu, et al. [paper](https://arxiv.org/pdf/2407.00125)
+- Why Does the Cloud Stop Computing? Lessons from Hundreds of Service Outages. Haryadi S. Gunawi, et al. SoCC'16 [paper](https://ucare.cs.uchicago.edu/pdf/socc16-cos.pdf)
+- What Bugs Live in the Cloud? A Study of 3000+ Issues in Cloud Systems. Haryadi S. Gunawi, et al. SoCC'14 [paper](https://ucare.cs.uchicago.edu/pdf/socc14-cbs.pdf)
 
 ## Benchmarks
 - Blueprint: A Toolchain for Highly-Reconfigurable Microservice Applications. Vaastav Anand, et al. SOSP'23 [paper](https://blueprint-uservices.github.io/assets/pdf/anand2023blueprint.pdf)
