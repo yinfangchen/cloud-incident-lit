@@ -37,19 +37,18 @@ Cloud (including microservices) incidents/failures related work.
 
 
 ## Root Causing
-- Fault Diagnosis for Test Alarms in Microservices through Multi-source Data. Shenglin Zhang, et al. FSE(Industry)'24 [paper](https://dl.acm.org/doi/10.1145/3663529.3663833)
-- ChangeRCA: Finding Root Causes from Software Changes in Large Online Systems. Guangba Yu, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3643728) 
-- BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection. Luan Pham, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660805)
+- (RCACopilot) Automatic Root Cause Analysis via Large Language Models for Cloud Incidents. Yinfang Chen, et al. EuroSys'24 [paper](https://yinfangchen.github.io/assets/pdf/rcacopilot_paper.pdf)
+<!-- - ChangeRCA: Finding Root Causes from Software Changes in Large Online Systems. Guangba Yu, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3643728)  -->
+<!-- - BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection. Luan Pham, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660805) -->
 - A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization. Sungmin Kang, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660771) 
 - Chain-of-Event: Interpretable Root Cause Analysis for Microservices through Automatically Learning Weighted Event Causal Graph. Zhenhe Yao, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3663529.3663827) 
-- Towards Better Graph Neural Network-Based Fault Localization through Enhanced Code Representation. Md Nakhla Rafi, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660793)
-- Illuminating the Gray Zone: Non-intrusive Gray Failure Localization in Server Operating Systems. Shenglin Zhang, et al. FSE'24 [paper](https://dl.acm.org/doi/pdf/10.1145/3663529.3663834)  
+<!-- - Towards Better Graph Neural Network-Based Fault Localization through Enhanced Code Representation. Md Nakhla Rafi, et al. FSE'24 [paper](https://dl.acm.org/doi/10.1145/3660793) -->
+<!-- - Illuminating the Gray Zone: Non-intrusive Gray Failure Localization in Server Operating Systems. Shenglin Zhang, et al. FSE'24 [paper](https://dl.acm.org/doi/pdf/10.1145/3663529.3663834)   -->
+- Fault Diagnosis for Test Alarms in Microservices through Multi-source Data. Shenglin Zhang, et al. FSE(Industry)'24 [paper](https://dl.acm.org/doi/10.1145/3663529.3663833)
 - Exploring LLM-based Agents for Root Cause Analysis. Devjeet Roy, et al. arXiv'24 [paper](https://arxiv.org/pdf/2403.04123)
 - RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models. Zefan Wang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2310.16340)
-- PACE-LM: Prompting and Augmentation for Calibrated Confidence Estimation with GPT-4 in Cloud Incident Root Cause Analysis. Shizhuo Dylan Zhang, et al. FSE(Industry)'24 [paper](https://arxiv.org/pdf/2309.05833)
+<!-- - PACE-LM: Prompting and Augmentation for Calibrated Confidence Estimation with GPT-4 in Cloud Incident Root Cause Analysis. Shizhuo Dylan Zhang, et al. FSE(Industry)'24 [paper](https://arxiv.org/pdf/2309.05833) -->
 - Assess and summarize: Improve outage understanding with large language models. Pengxiang Jin, et al. arXiv'23 [paper](https://arxiv.org/pdf/2305.18084)
-- (RCACopilot) Automatic Root Cause Analysis via Large Language Models for Cloud Incidents. Yinfang Chen, et al. EuroSys'24 [paper](https://yinfangchen.github.io/assets/pdf/rcacopilot_paper.pdf)
-- GAMMA: Graph Neural Network-Based Multi-Bottleneck Localization for Microservices Applications. Gagan Somashekar, et al. WWW'24 [paper](https://www3.cs.stonybrook.edu/~anshul/www24_gamma.pdf)
 - Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-Modal Observability Data. Guangba Yu, et al. FSE'23 [paper](https://github.com/IntelligentDDS/Nezha/blob/main/FSE2023_Nezha.pdf)
 - Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data. Cheryl Lee, et al. ICSE'23 [paper](https://arxiv.org/pdf/2302.05092)
 - (DiagFusion) Robust Failure Diagnosis of Microservice System through Multimodal Data. Shenglin Zhang, et al. arXiv'23 [paper](https://arxiv.org/pdf/2302.10512.pdf)
@@ -66,7 +65,6 @@ Cloud (including microservices) incidents/failures related work.
 - Latent error prediction and fault localization for microservice applications by learning from system trace logs. Xiang Zhou, et al. ESEC/FSE'19 [paper](https://dl.acm.org/doi/10.1145/3338906.3338961)
 - Automated known problem diagnosis with event traces. Chun Yuan, et al. EuroSys'06 [paper](https://dl.acm.org/doi/10.1145/1217935.1217972)
 - Delta Debugging Microservice Systems. Xiang Zhou, et al. ASE'18 [paper](https://cspengxin.github.io/publications/ase18-debugmicroservice.pdf)
-
 
 
 
